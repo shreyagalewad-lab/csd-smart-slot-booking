@@ -536,16 +536,16 @@ npm run dev
 
 ## 👨‍💻 Author
 
-**Yash Shelar**  
+**Shreya Galewad**  
 *Master of Computer Applications (MCA) Background*  
 *Specializing in Java, Spring Boot, React, and Database Architecture*  
 
-* **GitHub:** [@theyashshelar](https://github.com/theyashshelar)
+* **GitHub:** [@shreyagalewad](https://github.com/shreyagalewad)
 
 ---
 
 ## License
 
-Copyright © 2026 Yash Shelar.
+Copyright © 2026 Shreya Galewad.
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
